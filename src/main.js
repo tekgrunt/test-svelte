@@ -3,7 +3,7 @@
 
 import App from './App.svelte';
 // const expect = require("chai").expect
-//import {Manager, Spout, Webhook} from 'limacharlie'
+import {Manager, Spout, Webhook} from 'limacharlie'
 // import Manager from limacharlie 
 // import Spout from limacharlie 
 // import Webhook from limacharlie 
